@@ -9,7 +9,7 @@
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
-The Python libraries necessary to execute the codes in the Jupyter Notebook are
+The Python libraries necessary to execute the codes in the [Jupyter notebook](https://github.com/evansdoe/online_retail/blob/main/online_retail.ipynb) are
 as follows:
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](https://numpy.org/)
@@ -22,7 +22,7 @@ as follows:
 
 In addition, one will need the [Online Retail II UCI](https://www.kaggle.com/mashlyn/online-retail-ii-uci/download) dataset available on [Kaggle](www.kaggle.com).
 
-The dataset must be downloaded into the same directory that the Jupyter Notebook is saved.
+The dataset must be downloaded into the same directory that the [Jupyter notebook](https://github.com/evansdoe/online_retail/blob/main/online_retail.ipynb) is saved.
 
 ## Project Motivation<a name="motivation"></a>
 In this project I used the given datasets mentioned in the [Installation](#installation)
@@ -38,9 +38,9 @@ to give relevant answers to the following questions:
 
 ## File Descriptions <a name="files"></a>
 
-There is only one Jupyter notebook available including complete investigation on above questions.
+There is only one [Jupyter notebook](https://github.com/evansdoe/online_retail/blob/main/online_retail.ipynb) available including complete investigation on above questions.
 
-There is only one Jupyter notebook assigned to this project whereby all the questions mentioned in the [Project Motivation](#motivation) section are answered.
+There is only one [Jupyter notebook](https://github.com/evansdoe/online_retail/blob/main/online_retail.ipynb) assigned to this project whereby all the questions mentioned in the [Project Motivation](#motivation) section are answered.
 
 ## Results<a name="results"></a>
 
