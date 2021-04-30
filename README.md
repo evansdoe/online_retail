@@ -42,7 +42,7 @@ There is only one [Jupyter notebook](https://github.com/evansdoe/online_retail/b
 
 ## Results<a name="results"></a>
 
-The main results of my analysis can be found at the post available [here]().
+The main results of my analysis is currently under review. I will put the link [here]() as soon as I receive it from the publisher.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
