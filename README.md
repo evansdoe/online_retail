@@ -42,7 +42,7 @@ There is only one [Jupyter notebook](https://github.com/evansdoe/online_retail/b
 
 ## Results<a name="results"></a>
 
-The main results of my analysis is currently under review. I will put the link [here]() as soon as I receive it from the publisher.
+The main results of my analysis in the [Jupyter notebook](https://github.com/evansdoe/online_retail/blob/main/online_retail.ipynb) have been communicated [here](https://towardsdatascience.com/using-machine-learning-to-predict-customers-next-purchase-day-7895ad49b4db#5b02-599e9165c953).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
