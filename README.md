@@ -38,9 +38,7 @@ to give relevant answers to the following questions:
 
 ## File Descriptions <a name="files"></a>
 
-There is only one [Jupyter notebook](https://github.com/evansdoe/online_retail/blob/main/online_retail.ipynb) available including complete investigation on above questions.
-
-There is only one [Jupyter notebook](https://github.com/evansdoe/online_retail/blob/main/online_retail.ipynb) assigned to this project whereby all the questions mentioned in the [Project Motivation](#motivation) section are answered.
+There is only one [Jupyter notebook](https://github.com/evansdoe/online_retail/blob/main/online_retail.ipynb) and an [HTML version](https://github.com/evansdoe/online_retail/blob/main/online_retail.html) of that assigned to this project whereby all the questions mentioned in the [Project Motivation](#motivation) section are answered.
 
 ## Results<a name="results"></a>
 
