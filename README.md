@@ -25,7 +25,7 @@ In addition, one will need the [Online Retail II UCI](https://www.kaggle.com/mas
 The dataset must be downloaded into the same directory that the [Jupyter notebook](https://github.com/evansdoe/online_retail/blob/main/online_retail.ipynb) is saved.
 
 ## Project Motivation<a name="motivation"></a>
-In this project I used the given datasets mentioned in the [Installation](#installation)
+In this project I use the given datasets mentioned in the [Installation](#installation)
 to give relevant answers to the following questions:
 
 1. How many online customers are there in the dataset and what is their country of origin?
