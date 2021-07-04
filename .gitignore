@@ -1,4 +1,4 @@
 # Exclude CSV files
 *csv
 .ipynb_checkpoints/
-__pycache__
+__pycache__/
